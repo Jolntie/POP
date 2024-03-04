@@ -13,6 +13,7 @@ mindmap
         root
                 Version Control
                         Git
+                                (Github)
                         Docker
                         Azure
                 Leren Zoeken
@@ -31,6 +32,7 @@ mindmap
                         TypeScript
                 Databases
                         SQL Server
+                        (MySQL)
                         EF
                         EF Core Migrations
 ```
