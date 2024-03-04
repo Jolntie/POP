@@ -11,7 +11,27 @@ mindmap
 ```mermaid
 mindmap
         root
-                root
-
-  
+                Version Control
+                        Git
+                        Docker
+                        Azure
+                Leren Zoeken
+                        ChatGPT
+                        Google
+                Code
+                        ASP.NET
+                                Middleware
+                                Dependency Injection
+                                Configuration
+                                Authentication & Authorisation
+                                API
+                                        Web API
+                                        Minimal API
+                JavaScript
+                        Vue
+                        TypeScript
+                Databases
+                        SQL Server
+                        EF
+                        EF Core Migrations
 ```
