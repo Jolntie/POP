@@ -20,6 +20,8 @@ mindmap
                         ChatGPT
                         Google
                 ASP.NET
+                        C#
+                        Dapper
                         Middleware
                         Dependency Injection
                         Configuration
@@ -27,9 +29,14 @@ mindmap
                         API
                                 Web API
                                 Minimal API
-                JavaScript
-                        Vue
-                        TypeScript
+                                Open API
+                                Swagger
+                Frontend
+                        HTML
+                        CSS
+                        JavaScript
+                                Vue
+                                TypeScript
                 Databases
                         SQL Server
                         (MySQL)
