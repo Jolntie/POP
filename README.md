@@ -18,15 +18,14 @@ mindmap
                 Leren Zoeken
                         ChatGPT
                         Google
-                Code
-                        ASP.NET
-                                Middleware
-                                Dependency Injection
-                                Configuration
-                                Authentication & Authorisation
-                                API
-                                        Web API
-                                        Minimal API
+                ASP.NET
+                        Middleware
+                        Dependency Injection
+                        Configuration
+                        Authentication & Authorisation
+                        API
+                                Web API
+                                Minimal API
                 JavaScript
                         Vue
                         TypeScript
