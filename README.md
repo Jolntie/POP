@@ -9,38 +9,69 @@ mindmap
 
 ```mermaid
 mindmap
-        root
-                Versiebeheer
-                        Git
-                                (Github)
-                        Docker
-                        Azure
-                Leren Zoeken
-                        ChatGPT
-                        Google
-                ASP.NET
-                        C#
-                        Dapper
-                        Middleware
-                        Dependency Injection
-                        Configuration
-                        Authentication & Authorisation
-                        API
-                                Web API
-                                Minimal API
-                                Open API
-                                Swagger
-                Frontend
-                        HTML
-                        CSS
-                        JavaScript
-                                Vue
-                                TypeScript
-                Databases
-                        SQL Server
-                        (MySQL)
-                        EF
-                        EF Core Migrations
+    root
+        Versiebeheer
+            Git
+                (Github)
+                Branch Management
+            Docker
+                Containerisatie
+                Multi-Stage Builds
+            Azure
+                Resource Management
+                Pipelines (CI/CD)
+        Leren Zoeken
+            ChatGPT
+                Prompt Engineering
+            Google
+                Advanced Search Operators
+        ASP.NET
+            C#
+                LINQ
+                Async/Await
+            Dapper
+                Optimalisatie van Queries
+            Middleware
+                Custom Middleware
+            Dependency Injection
+                Scoped & Transient Services
+            Configuration
+                Environment Variables
+                Secrets Management
+            Authentication & Authorisation
+                JWT Tokens
+                Identity Framework
+            API
+                Web API
+                    CRUD Operations
+                Minimal API
+                Open API
+                    API Documentation
+                Swagger
+                    UI Customization
+        Frontend
+            HTML
+                SEO-optimalisatie
+            CSS
+                Responsief Design
+            JavaScript
+                Vue
+                    Vue Router
+                    Vuex (State Management)
+                    PrimeVue
+                    Vite
+                TypeScript
+                    Typings voor Vue Componenten
+        Databases
+            SQL Server
+                Stored Procedures
+                Database Normalisatie
+            (MySQL)
+            EF
+                LINQ Queries
+            EF Core Migrations
+                Database Schema Management
+
 ```
 
     Versiebeheer
