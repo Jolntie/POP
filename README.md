@@ -2,13 +2,6 @@
 
 ```mermaid
 mindmap
-        legend
-            Must know
-            (Good to know)
-```
-
-```mermaid
-mindmap
     root
         Versiebeheer
             Git
@@ -59,6 +52,7 @@ mindmap
                     Vue Router
                     Vuex (State Management)
                     PrimeVue
+                    Primeflex
                     Vite
                 TypeScript
                     Typings voor Vue Componenten
