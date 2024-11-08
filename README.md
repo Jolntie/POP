@@ -1,4 +1,4 @@
-### POP/Mindmap 4-3-2024 👋
+### POP/Mindmap 8-11-2024 👋
 
 ```mermaid
 mindmap
@@ -75,10 +75,10 @@ mindmap
 ```
 
     Versiebeheer
-        Git: Een gedistribueerd versiebeheersysteem dat veel wordt gebruikt voor het bijhouden van wijzigingen in broncode tijdens softwareontwikkeling.
-            (Github): Een op het web gebaseerd platform voor het hosten van Git-opslagplaatsen en het samenwerken aan code met andere ontwikkelaars.
+        Git: Een gedistribueerd versiebeheersysteem voor het bijhouden van wijzigingen in code en samenwerking binnen ontwikkelteams.
+            (Github): Een platform voor het hosten van Git-opslagplaatsen en samenwerking aan code met tools zoals pull requests en projectbeheer.
         Docker: Een platform voor het ontwikkelen, verzenden en uitvoeren van toepassingen in containers, waardoor consistentie wordt gegarandeerd tussen verschillende omgevingen.
-        Azure: De cloudcomputing-service van Microsoft die een verscheidenheid aan services biedt, zoals virtuele machines, databases en AI-services.
+        Azure: Cloudservice van Microsoft voor het hosten van toepassingen, databases en AI-diensten, met opties voor CI/CD-implementatie en resourcebeheer.
 
     Leren Zoeken
         ChatGPT: Een op AI gebaseerd taalmodel dat in staat is mensachtige tekst te genereren op basis van de input die het ontvangt.
@@ -102,6 +102,8 @@ mindmap
         CSS: Cascading Style Sheets gebruikt voor het vormgeven van webpagina's.
         JavaScript: Een programmeertaal die wordt gebruikt voor het toevoegen van interactiviteit en dynamisch gedrag aan webpagina's.
             Vue: Een progressief JavaScript-framework voor het bouwen van gebruikersinterfaces.
+                PrimeVue: Een componentenbibliotheek voor Vue met kant-en-klare UI-elementen zoals knoppen, tabellen en modals, die het ontwikkelen van gebruikersinterfaces vereenvoudigt.
+                Primeflex: Een CSS-utility-bibliotheek die flexibele, responsieve lay-outs mogelijk maakt door gebruik te maken van eenvoudige klassevoorbeelden voor layout-aanpassingen.
             TypeScript: Een uitbreiding van JavaScript die statische typering en andere functies aan de taal toevoegt.
 
     Databases: Systemen voor het opslaan, beheren en ophalen van gegevens.
